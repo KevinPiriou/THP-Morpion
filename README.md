@@ -1,10 +1,17 @@
-#The Hacking Project - Tic Tac Toe
 
-##ruby app.rb that lauchs the all game
+[#] = > 𝗕𝗶𝗲𝗻𝘃𝗲𝗻𝘂𝗲 𝘀𝘂𝗿 𝗹𝗲 𝗧𝗶𝗰 𝗧𝗮𝗰 𝗧𝗼𝗲, 𝗰𝗲𝗰𝗶 𝗲𝘀𝘁 𝘂𝗻 𝗽𝗿𝗼𝗷𝗲𝘁 𝗧𝗛𝗣_𝗥𝗨𝗕𝗬_𝗣𝗢𝗢
 
-- game.rb that lists all the game process : from player names, to the victory of one of the players
-- player.rb that creates 2 players
-- boardcases.rb that structures the 9 cells of the game
-- board.rb that puts together the 9 celles of boardcases and puts in form the board
+𝗖𝗢𝗡𝗦𝗜𝗚𝗡𝗘𝗦 : 
 
-Let's go
+- [1] $ GIT CLONE LE REPO
+- [2] $ BUNDLE INSTALL
+- [3] $ RUBY APP.RB
+
+𝗔𝗠𝗘́𝗟𝗜𝗢𝗥𝗔𝗧𝗜𝗢𝗡 [✔/x] :
+- [✔] README
+- [✔] HUD
+- [✔] SCORE
+- [✔] COULEUR
+- [✔] BO3
+- [x] BO5
+- [x] ROUND DEFINI

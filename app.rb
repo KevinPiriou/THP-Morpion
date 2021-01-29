@@ -11,6 +11,8 @@ require 'app/boardcase'
 morpion = Game.new
 morpion.one_game
 morpion.new_round
+morpion.one_game
+
 
 
 
