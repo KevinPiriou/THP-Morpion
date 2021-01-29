@@ -15,3 +15,12 @@
 - [✔] BO3
 - [o] BO5
 - [o] ROUND DEFINI
+
+𝗖𝗥𝗘𝗗𝗜𝗧 :
+- [✔] Melvin <3
+- [✔] Frédéric <3
+- [✔] Théo <3
+- [✔] Kévin ✞
+
+
+
