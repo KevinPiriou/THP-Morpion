@@ -7,11 +7,11 @@
 - [2] $ BUNDLE INSTALL
 - [3] $ RUBY APP.RB
 
-𝗔𝗠𝗘́𝗟𝗜𝗢𝗥𝗔𝗧𝗜𝗢𝗡 [✔/x] :
+𝗔𝗠𝗘́𝗟𝗜𝗢𝗥𝗔𝗧𝗜𝗢𝗡 [✔/o] :
 - [✔] README
 - [✔] HUD
 - [✔] SCORE
 - [✔] COULEUR
 - [✔] BO3
-- [x] BO5
-- [x] ROUND DEFINI
+- [o] BO5
+- [o] ROUND DEFINI
